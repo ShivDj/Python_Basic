@@ -1,0 +1,12 @@
+import random
+flip= random.randint(0,1)
+print("coin is fliped and it is= ")
+if flip%2==0:
+    print("import random
+flip= random.randint(0,1)
+if flip%2==0:
+    print("Head")
+if flip%2!=0:
+    print("Tail")Head")
+if flip%2!=0:
+    print("Tail")
