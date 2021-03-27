@@ -1,0 +1,9 @@
+DEBUG::This message should go to the log file::12
+INFO::So should this::13
+WARNING::And this, too::14
+ERROR::And non-ASCII stuff, too, like Øresund and Malmö::15
+INFO::data displayed sussefully::31
+ERROR::something went wrong please check your database and query syntax carefully::42
+ERROR::something went wrong please check your database and query syntax carefully::42
+INFO::data insearted sucessfully into database::40
+INFO::data displayed sussefully::31
